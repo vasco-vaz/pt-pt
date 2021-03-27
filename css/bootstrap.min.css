@@ -14,9 +14,6 @@ display: none;
     padding: 8px !important;
 }
 
-.justify-content-end {
-    justify-content: center !important;
-}
 
 @media print {
     *,
@@ -5954,7 +5951,7 @@ a.bg-dark:hover {
 
 .justify-content-end {
     -ms-flex-pack: end!important;
-    justify-content: flex-end!important
+    justify-content: center !important
 }
 
 .justify-content-center {
